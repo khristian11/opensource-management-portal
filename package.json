@@ -120,7 +120,7 @@
     "throat": "6.0.1",
     "tmp-promise": "3.0.3",
     "unzipper": "0.10.11",
-    "validator": "13.7.0",
+    "validator": "13.9.0",
     "walk-back": "5.1.0"
   },
   "devDependencies": {
@@ -150,7 +150,7 @@
     "@types/semver": "7.3.9",
     "@types/simple-oauth2": "4.1.1",
     "@types/unzipper": "0.10.5",
-    "@types/validator": "13.7.2",
+    "@types/validator": "13.7.12",
     "@typescript-eslint/eslint-plugin": "5.17.0",
     "@typescript-eslint/parser": "5.17.0",
     "eslint": "8.11.0",
